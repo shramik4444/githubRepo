@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.imgstyle {
+  height: 200px;
+  width: 200px;
+}
+.listcont {
+  text-align: center;
+  margin: 20px;
+}
+.iconcont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.iconstyle {
+  height: 20px;
+  width: 20px;
+}

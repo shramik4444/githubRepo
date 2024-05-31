@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.languagecont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.repositories-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.fullcont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+  background-size: cover;
+  height: 100%;
+}
+.itemscont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
